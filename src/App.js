@@ -17,7 +17,7 @@ import cards from "./cards.json";
 
 import './App.css';
 
-
+ReactDOM.render(<Router basename={process.env.PUBLIC_URL}>< App /></Router>, document.getElementById('root'));
 
 
 class App extends Component {
