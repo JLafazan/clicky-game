@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://jlafazan.github.io/clicky-game",
   "dependencies": {
+    "gh-pages": "^1.2.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-router": "^4.3.1",
